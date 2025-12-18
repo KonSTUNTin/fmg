@@ -1844,7 +1844,7 @@
                   </value>
                   <value name="B">
                     <shadow type="math_number" id="%l.!^QVAoJ88tjr#dP5-">
-                      <field name="NUM">0.75</field>
+                      <field name="NUM">0.35</field>
                     </shadow>
                   </value>
                 </block>
